@@ -1,6 +1,3 @@
-# pandacookbook
-Y'all
+# Professional
 
-This is my first gitub repositary in a while, so pardon my messes.
-
-I'm hoping to use this to set up my website, pandacookbook.com
+Adjusting this repository to host a professional website. So sort of the opposite of what it used to be.
