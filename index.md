@@ -1,7 +1,7 @@
-##Research Interests:
+## Research Interests:
 Combinatorics, Computer Science, Social Choice
 
-Curriculum Vitae
+### Curriculum Vitae
 
 ![Image of Daniel](Dan.jpeg)
 You should hire this person to do math!
