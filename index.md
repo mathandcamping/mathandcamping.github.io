@@ -1,3 +1,3 @@
 Daniel Condon
 
-![Image of Daniel](https://mathandcamping.github.com/Dan.jpeg)
+![Image of Daniel](Dan.jpeg)
