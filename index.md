@@ -7,4 +7,4 @@ Algebraic and Enumerative Combinatorics, Social Choice
 
 ![CV](CV.pdf)
 
-![Image of Daniel](Dan.jpeg =50x)
+![Image of Daniel](Dan.jpeg)
