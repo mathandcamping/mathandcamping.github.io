@@ -2,7 +2,7 @@ I am a graduate student in mathematics.
 
 <img src="Dan.jpeg" alt="drawing" width="200"/>
 
-## Research Interests:
+## Research Interests
 Algebraic and Enumerative Combinatorics, Social Choice
 
 [My CV](CV.pdf)
