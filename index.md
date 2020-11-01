@@ -2,12 +2,8 @@ I am a graduate student in mathematics.
 ## Research Interests:
 Algebraic and Enumerative Combinatorics, Social Choice
 
-### Curriculum Vitae
+### About Me
 
 [My CV](CV.pdf)
-
-[Testing](google.com)
-
-[Testing2](http://www.danielcondon.com/CV.pdf)
 
 ![Image of Daniel](Dan.jpeg)
