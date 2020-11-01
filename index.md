@@ -7,5 +7,4 @@ Algebraic and Enumerative Combinatorics, Social Choice
 
 ![CV](CV.pdf)
 
-![Image of Daniel](Dan.jpeg =x100)
-You should hire this person to do math!
+![Image of Daniel](Dan.jpeg =50x)
