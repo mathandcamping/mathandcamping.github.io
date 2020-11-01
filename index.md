@@ -4,6 +4,6 @@ Algebraic and Enumerative Combinatorics, Social Choice
 
 ### Curriculum Vitae
 
-![My CV](/CV.pdf)
+[My CV](CV.pdf)
 
 ![Image of Daniel](Dan.jpeg)
