@@ -6,4 +6,8 @@ Algebraic and Enumerative Combinatorics, Social Choice
 
 [My CV](CV.pdf)
 
+[Testing](google.com)
+
+[Testing2](http://www.danielcondon.com/CV.pdf)
+
 ![Image of Daniel](Dan.jpeg)
