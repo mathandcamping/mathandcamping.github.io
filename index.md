@@ -1,9 +1,11 @@
-proud owner of a website
+Graduate Student in Mathematics
 
 ## Research Interests:
-Combinatorics, Computer Science, Social Choice
+Algebraic and Enumerative Combinatorics, Social Choice
 
 ### Curriculum Vitae
+
+![CV](CV.pdf)
 
 ![Image of Daniel](Dan.jpeg)
 You should hire this person to do math!
