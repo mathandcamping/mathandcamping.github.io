@@ -7,3 +7,4 @@ Algebraic and Enumerative Combinatorics, Social Choice
 
 [My CV](CV.pdf)
 
+[My Teaching Portfolio](Teaching Portfolio.pdf)
